@@ -1,0 +1,13 @@
+{
+    "username" : "lblanc",
+    "email" : "lucia.blanc@mercadolibre.com",
+    "host_presto" : "",
+    "host_hive" : "",
+    "host_teradata" : "",
+    "host_indiana" : "",
+    "host_jira" : "",
+    "password_hive" : "",
+    "password_teradata" : "",
+    "password_indiana" : "",
+    "password_jira" : ""
+}
